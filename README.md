@@ -197,12 +197,12 @@ The court, since its inauguration on 24 July 2004, has accelerated the legal pro
 </html>
 ```
 ## Output:
-![map](/static/image/map.png)
-![madurai](/static/image/madurai.png)
-![temple](/static/image/temple.png)
-![court](/static/image/court.png)
-![mahal](/static/image/mahal.png)
-![college](/static/image/college.png)
-![museum](/static/image/museum.png)
+![map](map.png)
+![madurai](madurai.png)
+![temple](temple.png)
+![court](court.png)
+![mahal](mahal.png)
+![college](college.png)
+![museum](museum.png)
 ## Result:
 The program for implementing image map is executed successsfully.
